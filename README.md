@@ -7,7 +7,7 @@
 \___/____/\___/____/\____/___/  \______/\________/   \_____/  
 
 ```
-👋 **hi there, i'm harvey!** see more about me [here](https://hrvey.netlify.app/about/).
+👋 **hi there, i'm harvey!** my corner of the internet is over [here](https://hrvey.netlify.app/about/).
 
 <!--
 **pagrpagr/pagrpagr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
