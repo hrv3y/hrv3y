@@ -7,7 +7,7 @@
 \___/____/\___/____/\____/___/  \______/\________/   \_____/  
 
 ```
-👋 **hi there, i'm harvey!** my corner of the internet is over [here](https://hrv3y.xyz/about/).
+👋 **hi there, i'm harvey!** my corner of the internet is over [here](https://hrv3y.xyz/contact/).
 
 <!--
 **pagrpagr/pagrpagr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
