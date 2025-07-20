@@ -1,4 +1,3 @@
-<!--
 ```
 
     ________  ________  ________  ________  ________  ________ 
@@ -8,7 +7,8 @@
 \___/____/\___/____/\____/___/  \______/\________/   \_____/  
 
 ```
-👋 **hi there, i'm harvey!** you can find my corner of the internet over [here](https://hrv.omg.lol/).
+<!--
+👋 **hi there, i'm harvey!** you can find my corner of the internet over [here](https://).
 
 
 **pagrpagr/pagrpagr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
